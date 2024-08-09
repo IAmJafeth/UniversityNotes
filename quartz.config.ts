@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "IAmJafeth",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "es-ES",
+    baseUrl: "www.iamjafeth.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -28,25 +28,25 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#eff1f5",
+          lightgray: "#9ca0b0",
+          gray: "#7287fd",
+          darkgray: "#4c4f69",
+          dark: "#4c4f69",
+          secondary: "#1e66f5",
+          tertiary: "#40a02b",
+          highlight: "rgba(30, 102, 245, 0.15)",
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#1e1e2e",
+          lightgray: "#737994",
+          gray: "#babbf1",
+          darkgray: "#c6d0f5",
+          dark: "#c6d0f5",
+          secondary: "#8caaee",
+          tertiary: "#a6d189",
+          highlight: "rgba(140, 170, 238, 0.15)",
           textHighlight: "#b3aa0288",
         },
       },
@@ -60,8 +60,8 @@ const config: QuartzConfig = {
       }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light",
-          dark: "github-dark",
+          light: "catppuccin-latte",
+          dark: "catppuccin-mocha",
         },
         keepBackground: false,
       }),
@@ -90,4 +90,37 @@ const config: QuartzConfig = {
   },
 }
 
+// theme: {
+//   fontOrigin: "googleFonts",
+//     cdnCaching: true,
+//     typography: {
+//     header: "Schibsted Grotesk",
+//       body: "Source Sans Pro",
+//       code: "IBM Plex Mono",
+//   },
+//   colors: {
+//     lightMode: {
+//       light: "#faf8f8",
+//         lightgray: "#e5e5e5",
+//         gray: "#b8b8b8",
+//         darkgray: "#4e4e4e",
+//         dark: "#2b2b2b",
+//         secondary: "#284b63",
+//         tertiary: "#84a59d",
+//         highlight: "rgba(143, 159, 169, 0.15)",
+//         textHighlight: "#fff23688",
+//     },
+//     darkMode: {
+//       light: "#161618",
+//         lightgray: "#393639",
+//         gray: "#646464",
+//         darkgray: "#d4d4d4",
+//         dark: "#ebebec",
+//         secondary: "#7b97aa",
+//         tertiary: "#84a59d",
+//         highlight: "rgba(143, 159, 169, 0.15)",
+//         textHighlight: "#b3aa0288",
+//     },
+//   },
+// },
 export default config
