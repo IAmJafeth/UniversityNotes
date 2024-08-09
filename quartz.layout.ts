@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
       provider: 'giscus',
       options: {
         // from data-repo
-        repo: 'AmJafeth/UniversityNotes',
+        repo: 'IAmJafeth/UniversityNotes',
         // from data-repo-id
         repoId: 'R_kgDOMhU05A',
         // from data-category
