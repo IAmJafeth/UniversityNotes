@@ -7,8 +7,6 @@ Soy estudiante de Ingeniería en Desarrollo de Software en la [Universidad Fidé
 
 Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis cursos universitarios. Ya sea que seas un compañero de clase, un estudiante, o solamente alguien interesado en aprender, aquí encontraras recursos valiosos que te ayudaran a entender y sobresalir en varios temas. Actualizo las notas de forma semanal, entonces asegúrate de revisar si hay una actualización de manera regular[^1].  
 
-[^1]: Este blog cuenta con soporte para [RSS](https://es.wikipedia.org/wiki/RSS), para que puedas mantenerte actualizado de una manera sencilla.
-
 %% ### Cursos que estoy llevando actualmente:
 
 - **[Curso 1: Introduction to Computer Science](#)**  
@@ -28,7 +26,6 @@ También me gustaría ir agregando información interesante sobre tecnología, g
 
 Actualizo mis notas todas las semanas después de cada clase, entonces el contenido está en constante expansion. Utilizo [Obsidian](https://obsidian.md/) para escribir mis notas [^2], y [Quartz V4](https://quartz.jzhao.xyz) para publicarlas como un sitio estático, y por último utilizo [Cloudflare](https://www.cloudflare.com/) como mi proveedor de hosting.
 
-[^2]: [Obsidian](https://obsidian.md/) es completamente gratuito, pero ofrece un [descuento para estudiantes](https://help.obsidian.md/Licenses+and+payment/Education+and+non-profit+discount) para su servicios de [Obsidian Sync](https://obsidian.md/sync) y [Obsidian Publish](https://obsidian.md/publish) por si quieres aprovechar y tomar tus propias notas usando la misma herramienta que yo!
 
 ### **Como utilizar este blog**
 
@@ -51,17 +48,5 @@ Te motivo a escribir comentarios en las notas, hacer preguntas o sugerencias de 
 
 ¿Tienes alguna sugerencia?  Conctáctame a mi correo [jafeth636@gmail.com](mailto:jafeth636@gmail.com)
 
-
-
-%% ### **Footer**
-
-**Quick Links**
-
-- [About](#)
-- [Courses](#)
-- [Contact](#)
-- [Privacy Policy](#)
-
-**Legal Information**  
-The notes shared on this blog are intended as study aids and should not replace official course materials. Always refer to your university’s resources for the most accurate information. %%
-
+[^1]: Este blog cuenta con soporte para [RSS](https://es.wikipedia.org/wiki/RSS), para que puedas mantenerte actualizado de una manera sencilla.
+[^2]: [Obsidian](https://obsidian.md/) es completamente gratuito, pero ofrece un [descuento para estudiantes](https://help.obsidian.md/Licenses+and+payment/Education+and+non-profit+discount) para su servicios de [Obsidian Sync](https://obsidian.md/sync) y [Obsidian Publish](https://obsidian.md/publish) por si quieres aprovechar y tomar tus propias notas usando la misma herramienta que yo!
