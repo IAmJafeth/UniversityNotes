@@ -45,16 +45,9 @@ Te motivo a escribir comentarios en las notas, hacer preguntas o sugerencias de 
 ¿Interesado en contribuir? Estoy abierto a tener notas invitadas o colaborar en proyectos.
  ¡Aprendamos y crezcamos juntos! 
 
-%% **Follow My Journey**  
-Stay connected by following me on social media for updates and additional content:
-
-- **[Twitter](#)**
-- **[LinkedIn](#)**
-
-
 ### **Contact Me**
 
-Have questions or suggestions? Feel free to reach out via email. %%
+¿Tienes alguna sugerencia?  Conctáctame a mi correo [jafeth636@gmail.com](mailto:jafeth636@gmail.com)
 
 
 
