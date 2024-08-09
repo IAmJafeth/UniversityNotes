@@ -1,11 +1,11 @@
 ---
-title: Bienvenido a Mis Notas de Universidad
+title: Bienvenido a mis Notas Universitarias
 ---
 
 ## **Hola, soy Jafeth Garro** 
 Soy estudiante de Ingeniería en Desarrollo de Software en la [Universidad Fidélitas](https://ufidelitas.ac.cr/)
 
-Bienvenido a mi blog de studio personal donde estaré compartiendo notas de mis cursos universitarios. Ya sea que seas un compañero de clase, un estudiante, o solamente alguien interesado en aprender, aquí encontraras recursos valiosos que te ayudaran a entender y sobresalir en varios temas. Actualizo las notas de forma semanal, entonces asegúrate de revisar si hay una actualización de manera regular[^1].  
+Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis cursos universitarios. Ya sea que seas un compañero de clase, un estudiante, o solamente alguien interesado en aprender, aquí encontraras recursos valiosos que te ayudaran a entender y sobresalir en varios temas. Actualizo las notas de forma semanal, entonces asegúrate de revisar si hay una actualización de manera regular[^1].  
 
 [^1]: Este blog cuenta con soporte para [RSS](https://es.wikipedia.org/wiki/RSS), para que puedas mantenerte actualizado de una manera sencilla.
 
@@ -23,6 +23,8 @@ Bienvenido a mi blog de studio personal donde estaré compartiendo notas de mis 
 ### **Sobre este Blog**
 
 Este blog is un espacio donde puedo compilar y compartir las notas que tomo durante mis cursos universitarios. My objetivo es crear un recurso que no solo me ayude a estudiar, pero también ayude a otros que estén aprendiendo sobre los mismos temas. Vas a encontrar explicaciones claras, ayudas visuales, y resúmenes para lograr hacer temas complejos, sencillos de entender.
+
+También me gustaría ir agregando información interesante sobre tecnología, guías de herramientas que uso en mi día a día, sistemas operativos, etc... Pero esta información va a ser independiente de las notas universitarias (Aunque podrían haber ciertos temas que estén interconectados).
 
 Actualizo mis notas todas las semanas después de cada clase, entonces el contenido está en constante expansion. Utilizo [Obsidian](https://obsidian.md/) para escribir mis notas [^2], y [Quartz V4](https://quartz.jzhao.xyz) para publicarlas como un sitio estático, y por último utilizo [Cloudflare](https://www.cloudflare.com/) como mi proveedor de hosting.
 
@@ -45,7 +47,7 @@ Te motivo a escribir comentarios en las notas, hacer preguntas o sugerencias de 
 ¿Interesado en contribuir? Estoy abierto a tener notas invitadas o colaborar en proyectos.
  ¡Aprendamos y crezcamos juntos! 
 
-### **Contact Me**
+### **Contáctame**
 
 ¿Tienes alguna sugerencia?  Conctáctame a mi correo [jafeth636@gmail.com](mailto:jafeth636@gmail.com)
 
