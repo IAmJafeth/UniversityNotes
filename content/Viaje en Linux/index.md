@@ -14,10 +14,12 @@ Bienvenido a mi diario de transición a 100% Linux. Aquí comparto mi experienci
 ### 1. Diario de Transición 📖
 Sigue mi recorrido desde la instalación de Linux hasta la configuración avanzada de mi entorno de trabajo. En esta sección documento los desafíos, aprendizajes y soluciones que he encontrado a lo largo del camino.
 
-%% - [[Día 0: Por qué decidí transicionar a Linux?]]
-- [[Día 1: Instalación de Linux y Primeras Impresiones]]
-- [[Día 2: Configuración del Entorno de Desarrollo]]
-- [[Día 3: Descubriendo Aplicaciones Clave]] %%
+%% 
+- [[Día 0 - ¿Por qué decidí transicionar a Linux?]]
+- [[Día 1 - Instalación de Linux y Primeras Impresiones]]
+- [[Día 2 - Configuración del Entorno de Desarrollo]]
+- [[Día 3 - Descubriendo Aplicaciones Clave]] 
+- %%
 - [[Viaje en Linux/Diario/index| Ver Todo el Diario]]
 
 ### 2. Programas que Utilizo 🧑‍💻
