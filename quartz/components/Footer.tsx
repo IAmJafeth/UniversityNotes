@@ -8,9 +8,12 @@ interface Options {
 }
 
 export default ((opts?: Options) => {
-  const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+  const Footer: QuartzComponent = ({fileData, displayClass, cfg }: QuartzComponentProps) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
+    const slug = fileData.slug
+    const acknowl = opts?.acknowledgement ?? []
+    const fund = opts?.funding ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
@@ -24,6 +27,15 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <p>
+          {(
+            <>
+              {acknowl}
+              <br />
+              {fund}
+            </>
+          )}
+        </p>
       </footer>
     )
   }
