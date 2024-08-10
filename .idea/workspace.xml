@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c71baec-6ec5-41ac-a68b-0e6c7dbe1e58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/content/Viaje en Linux/Diario/Día 0 - ¿Por qué decidí transicionar a Linux?.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/assets/cli vs gui.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Viaje en Linux/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Viaje en Linux/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,25 +24,29 @@
     &quot;assignee&quot;: &quot;IAmJafeth&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/IAmJafeth/UniversityNotes.git",
-    "accountId": "a35e40a4-60d0-4573-a787-90c224874fda"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IAmJafeth/UniversityNotes.git&quot;,
+    &quot;accountId&quot;: &quot;a35e40a4-60d0-4573-a787-90c224874fda&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2kPPSd0NtREIxQO26QqiDAAkhd9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;v4&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jgarro/Quartz&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jgarro/Quartz/quartz/static&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -53,6 +60,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/quartz/static" />
       <recent name="$PROJECT_DIR$/quartz/components/styles" />
       <recent name="$PROJECT_DIR$/quartz/components/scripts" />
       <recent name="$PROJECT_DIR$/quartz/components" />
@@ -79,10 +87,15 @@
       <workItem from="1723223664777" duration="3268000" />
       <workItem from="1723227280909" duration="1718000" />
       <workItem from="1723229230747" duration="10000" />
+      <workItem from="1723256015466" duration="510000" />
+      <workItem from="1723258916759" duration="690000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
