@@ -25,7 +25,7 @@ export const sharedPageComponents: SharedLayout = {
       "Codigo Fuente": "https://github.com/IAmJafeth/UniversityNotes",
       "Discord": "https://discord.gg/QMCtcS5svv",
     },
-    acknowledgement: "Las notas compartidas en este blog están destinadas a ser ayudas para el estudio y no deben reemplazar los materiales oficiales del curso. Consulte siempre los recursos de su universidad para obtener la información más precisa.t",
+    acknowledgement: 'Las notas compartidas en este blog están destinadas a ser ayudas para el estudio y no deben reemplazar los materiales oficiales del curso. Consulte siempre los recursos de su universidad para obtener la información más precisa.',
   }),
 
 }
