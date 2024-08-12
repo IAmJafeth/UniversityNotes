@@ -18,6 +18,14 @@ tags:
 - **Enfriamiento:** [NZXT Kraken X73](https://nzxt.com/es-ES/product/kraken-x73?srsltid=AfmBOooqsvIZJNio4CDq5oalwMr1FMOtO5pyOEm8Y0tnup54T7TfZiT1)
 - **Case:** [be quiet! PURE BASE 500DX](https://www.bequiet.com/es/case/1855)
 
+## Software
+- **OS:** [Ubuntu 24.04 LTS x86_64](https://releases.ubuntu.com/noble/)
+- **Kernel:** 6.8.0-40-generic
+- **Shell:** bash 5.2.21
+- **DE:** GNOME 46.0
+- **WM:** Mutter
+- **Terminal:** [WarpTerminal](https://www.warp.dev/)
+
 ## Periféricos
 - **Monitor:** 
 	- [AOC G2790VX  27'' - 144 HZ - 1 ms](https://aoc.com/ec/gaming/products/monitors/g2790vx)
