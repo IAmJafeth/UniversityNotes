@@ -1,4 +1,9 @@
-## QA Analyst
+---
+class-date: 2024-08-13
+---
+
+
+## 1. QA Analyst
 
 Las tareas y responsabilidades de un **QA Analyst** suelen involucrar una variedad de actividades que aseguran que los productos, sistemas o software cumplen con los estándares de calidad de una organización. Algunas de las principales responsabilidades incluyen:
 
@@ -19,26 +24,26 @@ Las tareas y responsabilidades de un **QA Analyst** suelen involucrar una varied
 - [Workable - "Quality Analyst job description"](https://resources.workable.com/quality-analyst-job-description)
 - [Fullscale - "Roles and Responsibilities of A Software QA"](https://fullscale.io/blog/roles-and-responsibilities-of-a-software-qa/)
 
-## Senior QA Analyst
-1. Planificación de Pruebas: Desarrollar planes de prueba detallados, estimar tiempo y recursos necesarios para la fase de pruebas y coordinar con otros equipos para definir el alcance y objetivos de las pruebas.
+## 2. Senior QA Analyst
+1. **Planificación de Pruebas:** Desarrollar planes de prueba detallados, estimar tiempo y recursos necesarios para la fase de pruebas y coordinar con otros equipos para definir el alcance y objetivos de las pruebas.
 
-2. Diseño de Casos de Prueba: Crear casos de prueba y escenarios basados en los requisitos del producto, revisar y mejorar los casos de prueba existentes.
+2. **Diseño de Casos de Prueba:** Crear casos de prueba y escenarios basados en los requisitos del producto, revisar y mejorar los casos de prueba existentes.
 
-3. Ejecución de Pruebas: Realizar pruebas (funcionales, de regresión, de integración, de carga, y de seguridad, etc), tanto manuales como automatizadas.
+3. **Ejecución de Pruebas:** Realizar pruebas (funcionales, de regresión, de integración, de carga, y de seguridad, etc), tanto manuales como automatizadas.
 
-4. Automatización de Pruebas: Desarrollar y mantener scripts de prueba automatizados, revisar y optimizar los frameworks de automatización existentes e implementar pruebas automatizadas en el proceso de integración continua (CI/CD).
+4. **Automatización de Pruebas:** Desarrollar y mantener scripts de prueba automatizados, revisar y optimizar los frameworks de automatización existentes e implementar pruebas automatizadas en el proceso de integración continua (CI/CD).
 
-5. Gestión de Defectos: Documentar y reportar defectos de manera clara y detallada, realizar seguimiento de los defectos hasta su resolución.
+5. **Gestión de Defectos:** Documentar y reportar defectos de manera clara y detallada, realizar seguimiento de los defectos hasta su resolución.
 
-6. Revisión de Código: Participar en la revisión de código para identificar posibles errores desde la perspectiva de calidad.
+6. **Revisión de Código:** Participar en la revisión de código para identificar posibles errores desde la perspectiva de calidad.
 
-7. Monitoreo y Análisis de Resultados: Analizar los resultados de las pruebas y generar reportes detallados, identificar patrones y tendencias en los resultados para mejorar la calidad general y proporcionar recomendaciones basadas en los resultados de las pruebas.
+7. **Monitoreo y Análisis de Resultados:** Analizar los resultados de las pruebas y generar reportes detallados, identificar patrones y tendencias en los resultados para mejorar la calidad general y proporcionar recomendaciones basadas en los resultados de las pruebas.
 
-8. Documentación: Crear y mantener la documentación de QA, incluyendo planes de prueba, casos de prueba y resultados. 
+8. **Documentación:** Crear y mantener la documentación de QA, incluyendo planes de prueba, casos de prueba y resultados. 
 
-9. Comunicación y Coordinación: Actuar como enlace entre el equipo de desarrollo, gestión de productos y otras partes interesadas, proporcionar actualizaciones de estado regulares a la gerencia y otros equipos y participar en reuniones de planificación, revisión y retrospectiva.
+9. **Comunicación y Coordinación:** Actuar como enlace entre el equipo de desarrollo, gestión de productos y otras partes interesadas, proporcionar actualizaciones de estado regulares a la gerencia y otros equipos y participar en reuniones de planificación, revisión y retrospectiva.
 
-10. Aseguramiento de la Calidad del Proceso: Revisar y mejorar los procesos internos de QA, además de asegurar que el equipo siga las mejores prácticas y estándares de la industria. Evaluar la efectividad de las pruebas y ajustar las estrategias según sea necesario.
+10. **Aseguramiento de la Calidad del Proceso:** Revisar y mejorar los procesos internos de QA, además de asegurar que el equipo siga las mejores prácticas y estándares de la industria. Evaluar la efectividad de las pruebas y ajustar las estrategias según sea necesario.
 
 #### Fuentes
 
@@ -46,7 +51,7 @@ Las tareas y responsabilidades de un **QA Analyst** suelen involucrar una varied
 - [Anywhere Club - "Senior QA Engineer Job Description"](https://aw.club/global/en/blog/senior-qa-engineer-job-description)
 - [Indeed - "Senior QA Analyst Job Description: Top Duties and Requirements"](https://ca.indeed.com/hire/job-description/senior-qa-analyst)
 
-## QA Team Coordinator
+## 3. QA Team Coordinator
 
 Un **QA Manager**, o **Quality Assurance Manager,** es un líder esencial en el ámbito del desarrollo de software, encargado de asegurar la calidad del producto final.
 
@@ -59,7 +64,7 @@ Un **QA Manager**, o **Quality Assurance Manager,** es un líder esencial en el 
 #### Fuentes
 - [Izertis - "El rol del QA Manager"](https://www.izertis.com/es/-/blog/el-rol-del-qa-manager)
 
-## Test Manager
+## 4. Test Manager
 Proporcionar a los asistentes los conceptos y técnicas que aumenten sus capacidades en:
 
 1.	Estrategia y planificación de pruebas.
@@ -74,7 +79,7 @@ Proporcionar a los asistentes los conceptos y técnicas que aumenten sus capacid
 #### Fuentes
 - [Capgemini - "Test Manager Job Position"](https://jobs.capgemini.com/mx-es/job/Ciudad-de-Mexico-Test-Manager-AGU/1044883801/#:~:text=Tus%20funciones%3A&text=Gesti%C3%B3n%20de%20pruebas%2C%20comunicaci%C3%B3n%2C%20m%C3%A9tricas,los%20criterios%20de%20aceptaci%C3%B3n%20definidos)
 
-## Senior Test Manager
+## 5. Senior Test Manager
 liderar y gestionar de manera integral el proceso de pruebas dentro de proyectos de gran envergadura y complejidad, asegurando la calidad del producto en todas sus dimensiones antes de su entrega final.
 
 1. Implementar la misión, los objetivos y los procesos de prueba establecidos por la organización.
