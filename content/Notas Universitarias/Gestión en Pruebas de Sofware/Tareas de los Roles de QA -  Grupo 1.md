@@ -42,6 +42,10 @@ Las tareas y responsabilidades de un **QA Analyst** suelen involucrar una varied
 
 #### Fuentes
 
+- [Zippia - "What does a Senior Quality Assurance Analyst do?"](https://www.zippia.com/senior-quality-assurance-analyst-jobs/what-does-a-senior-quality-assurance-analyst-do/)
+- [Anywhere Club - "Senior QA Engineer Job Description"](https://aw.club/global/en/blog/senior-qa-engineer-job-description)
+- [Indeed - "Senior QA Analyst Job Description: Top Duties and Requirements"](https://ca.indeed.com/hire/job-description/senior-qa-analyst)
+
 ## QA Team Coordinator
 
 Un **QA Manager**, o **Quality Assurance Manager,** es un líder esencial en el ámbito del desarrollo de software, encargado de asegurar la calidad del producto final.
