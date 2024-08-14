@@ -1,5 +1,7 @@
 ---
 class-date: 2024-08-13
+cuatrimestre: 2
+codigo-curso:
 ---
 
 
