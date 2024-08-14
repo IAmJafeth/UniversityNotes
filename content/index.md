@@ -5,6 +5,7 @@ aliases:
   - Principal
   - Main
   - Main Page
+description: Explora las notas detalladas de Jafeth para sus cursos universitarios, actualizadas semanalmente y organizadas para facilitar el estudio. Además, sigue su transición a 100% Linux con guías y recomendaciones de software.
 ---
 
 ## **Hola, soy Jafeth Garro** 👋
