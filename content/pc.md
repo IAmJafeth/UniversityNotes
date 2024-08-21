@@ -43,5 +43,6 @@ tags:
 - [Mousepad Titan XL - Python Mouse Mat](https://imexx.com/index.php?route=product/product&product_id=675)
 - [Base para Monitor Argom 1603 Doble](https://extremetechcr.com/tienda/componentes/12833-base-para-monitor-argom-1603-doble-17-a-32-arg-br-1603.html)
 
-## Imagen
+## Imágenes
 ![[pc.jpg]]
+![[desktop.jpg]]
