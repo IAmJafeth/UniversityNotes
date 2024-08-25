@@ -9,7 +9,7 @@ tags:
 - **Procesador:** [Intel Core i9-11900K](https://ark.intel.com/content/www/us/en/ark/products/212325/intel-core-i9-11900k-processor-16m-cache-up-to-5-30-ghz.html)
 - **Tarjeta Gráfica:** [Gainward GeForce RTX™ 3070 Ti Phoenix](https://www.gainward.com/main/vgapro.php?id=1130&lang=esla)
 - **Fuente de Poder:** [Seasonic Focus GX-850 Full Modular 80 Plus Gold](https://seasonic.com/focus-gx/)
-- **Memoria RAM:** [G.zkill Trident Z Neo DDR4 3200Mhz](https://docs.google.com/spreadsheets/d/1ND1LEXkyM-W9i2nzRzeJ7abLmKUP3d1SOSAbmSAX3R8/edit?gid=0#gid=0) 32GB (4 x 8GB)
+- **Memoria RAM:** G.zkill Trident Z Neo DDR4 3200Mhz 32GB (4 x 8GB)
 - **Almacenamiento:**
 	- [XPG S70 Blade PCIe4 1TB](https://www.xpg.com/es/xpg/830)
 	- [Crucial P3 1TB PCIe M.2 SSD 1TB](https://www.crucial.com/ssd/p3/ct1000p3ssd8)
