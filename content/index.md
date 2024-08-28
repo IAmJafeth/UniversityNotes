@@ -15,11 +15,11 @@ Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis
 
 ## **Índice de Contenidos** 🗂️
 
-### **[[notes/index.md | Notas Universitarias 📓]]** Cursos actuales
-- **[[notes/SC-203/index|Fundamentos de Sistemas Operativos]]**  
-- **[[notes/IC-100/index|Metodología de Desarrollo de Proyectos]]**  
-- **[[notes/SC-315/index|Matemáticas Discretas]]**  
-- **[[notes/BEI-904/index|Investigación Cualitativa y Cuantitativa]]**  
+### **[[notas/index| Notas Universitarias 📓]]** Cursos actuales
+- **[[notas/SC-203/index|Fundamentos de Sistemas Operativos]]**  
+- **[[notas/IC-100/index|Metodología de Desarrollo de Proyectos]]**  
+- **[[notas/SC-315/index|Matemáticas Discretas]]**  
+- **[[notas/BEI-904/index|Investigación Cualitativa y Cuantitativa]]**  
 - [[cursos | Todos los Cursos]]
 
 
