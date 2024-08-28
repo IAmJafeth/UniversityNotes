@@ -20,7 +20,7 @@ Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis
 - **[[notas/IC-100/index|Metodología de Desarrollo de Proyectos]]**  
 - **[[notas/SC-315/index|Matemáticas Discretas]]**  
 - **[[notas/BEI-904/index|Investigación Cualitativa y Cuantitativa]]**  
-- [[cursos | Todos los Cursos]]
+- [[cursos | Todos los Cursos 📜]]
 
 
 ### **[[linux/index|Mi Viaje en Linux 🐧]]**
