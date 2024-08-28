@@ -9,17 +9,19 @@ description: Explora las notas detalladas de Jafeth para sus cursos universitari
 ---
 
 ## **Hola, soy Jafeth Garro** 👋
-Soy estudiante de Ingeniería en Desarrollo de Software en la [Universidad Fidélitas](https://ufidelitas.ac.cr/)
+Soy estudiante de [[cursos|Ingenieria en Desarrollo de Software]] en la [Universidad Fidélitas](https://ufidelitas.ac.cr/)
 
 Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis cursos universitarios y mi experiencia de transición a un entorno 100% Linux. Ya sea que seas un compañero de clase, un estudiante, o solamente alguien interesado en aprender o explorar Linux, aquí encontrarás recursos valiosos que te ayudarán a entender y sobresalir en varios temas. Actualizo las notas de forma semanal, así que asegúrate de revisar si hay una actualización de manera regular[^1].
 
 ## **Índice de Contenidos** 🗂️
 
-%% ### [](notes/index.md)]]**
-- **[Curso 1: Introducción a la Informática]**  
-- **[Curso 2: Matemáticas Avanzadas]**  
-- **[Curso 3: Psicología 101]**  
-%%
+### **[[notes/index.md | Notas Universitarias 📓]]** Cursos actuales
+- **[[notes/SC-203/index|Fundamentos de Sistemas Operativos]]**  
+- **[[notes/IC-100/index|Metodología de Desarrollo de Proyectos]]**  
+- **[[notes/SC-315/index|Matemáticas Discretas]]**  
+- **[[notes/BEI-904/index|Investigación Cualitativa y Cuantitativa]]**  
+- [[cursos | Todos los Cursos]]
+
 
 ### **[[linux/index|Mi Viaje en Linux 🐧]]**
 - **[[linux/Diario/index|Diario de Transición a 100% Linux 📖]]**  
