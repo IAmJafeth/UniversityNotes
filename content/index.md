@@ -28,7 +28,7 @@ Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis
 - **[[linux/Programas/index|Programas que Utilizo en Linux 🧑‍💻]]**  
 - **[[linux/Guias/index|Guías y Tutoriales 📚]]**  
 
-## **Sobre este Blog** ℹ
+## **Sobre este Blog** ℹ️
 
 Este blog es un espacio donde compilo y comparto las notas que tomo durante mis cursos universitarios y mi experiencia con Linux. Mi objetivo es crear un recurso que no solo me ayude a estudiar, sino que también apoye a otros que estén aprendiendo sobre los mismos temas o que quieran adentrarse en el mundo de Linux. Aquí encontrarás explicaciones claras, ayudas visuales, y resúmenes que simplifican temas complejos. Actualizo mis notas todas las semanas después de cada clase, y mi diario de Linux también está en constante expansión. Utilizo [Obsidian](https://obsidian.md/) para escribir mis notas[^2], y [Quartz V4](https://quartz.jzhao.xyz) para publicarlas como un sitio estático. Por último, utilizo [Cloudflare](https://www.cloudflare.com/) como mi proveedor de hosting.
 
