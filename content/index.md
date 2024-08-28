@@ -15,16 +15,16 @@ Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis
 
 ## **Índice de Contenidos** 🗂️
 
-%% ### **[[Notas Universitarias/index|Mis Notas Universitarias 📓]]**
+%% ### [](notes/index.md)]]**
 - **[Curso 1: Introducción a la Informática]**  
 - **[Curso 2: Matemáticas Avanzadas]**  
 - **[Curso 3: Psicología 101]**  
 %%
 
-### **[[Viaje en Linux/index|Mi Viaje en Linux 🐧]]**
-- **[[Viaje en Linux/Diario/index|Diario de Transición a 100% Linux 📖]]**  
-- **[[Viaje en Linux/Programas/index|Programas que Utilizo en Linux 🧑‍💻]]**  
-- **[[Viaje en Linux/Guias/index|Guías y Tutoriales 📚]]**  
+### **[[linux/index|Mi Viaje en Linux 🐧]]**
+- **[[linux/Diario/index|Diario de Transición a 100% Linux 📖]]**  
+- **[[linux/Programas/index|Programas que Utilizo en Linux 🧑‍💻]]**  
+- **[[linux/Guias/index|Guías y Tutoriales 📚]]**  
 
 ## **Sobre este Blog** ℹ
 

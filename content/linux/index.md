@@ -20,7 +20,7 @@ Sigue mi recorrido desde la instalación de Linux hasta la configuración avanza
 - [[Día 2 - Configuración del Entorno de Desarrollo]]
 - [[Día 3 - Descubriendo Aplicaciones Clave]] 
 - %%
-- [[Viaje en Linux/Diario/index| Ver Todo el Diario]]
+- [[linux/Diario/index| Ver Todo el Diario]]
 
 ### 2. Programas que Utilizo 🧑‍💻
 Descubre los programas y herramientas que me han resultado indispensables en mi uso diario de Linux. Cada sección incluye una descripción detallada, configuraciones recomendadas y mis experiencias personales.
@@ -28,14 +28,14 @@ Descubre los programas y herramientas que me han resultado indispensables en mi 
 %% - [[Editor de Texto: Visual Studio Code]]
 - [[Terminal: Zsh + Oh My Zsh]]
 - [[Gestor de Paquetes: apt y Snap]] %%
-- [[Viaje en Linux/Programas/index|Ver Todos los Programas]]
+- [[linux/Programas/index|Ver Todos los Programas]]
 
 ### 3. Guías y Tutoriales 📚
 Una colección de guías paso a paso para instalar, configurar y personalizar Linux según tus necesidades. Ideales tanto para principiantes como para usuarios más avanzados.
 
 %% - [[Guía de Instalación de Linux]]
 - [[Personalización del Escritorio]] %%
-- [[Viaje en Linux/Guias/index | Ver Todas las Guías]]
+- [[linux/Guias/index| Ver Todas las Guías]]
 
 ## Acerca de Este Proyecto
 

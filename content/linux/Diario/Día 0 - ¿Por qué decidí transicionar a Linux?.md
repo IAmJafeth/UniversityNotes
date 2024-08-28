@@ -44,4 +44,4 @@ Empecé por probar Linux en maquinas virtuales dentro de [Virtual Box](https://w
 ---
 
 %% #### [[Siguiente Nota]]  %%
-#### [[Viaje en Linux/Diario/index | ↩️ Regresar al Indice del Diario ]]
+#### [[linux/Diario/index| ↩️ Regresar al Indice del Diario ]]
