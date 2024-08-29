@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas/BEI-904/index.md",
-                "mode": "preview",
+                "file": "linux/Guias/resize-swap.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -31,7 +31,7 @@
       {
         "id": "b92a8b66e3565cc4",
         "type": "tabs",
-        "dimension": 28.38137472283814,
+        "dimension": 28.381374722838142,
         "children": [
           {
             "id": "4d66f6e139bab1ea",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "978171ab1e51d58b",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas/BEI-904/index.md"
+                "file": "linux/Guias/resize-swap.md"
               }
             }
           },
@@ -124,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notas/BEI-904/index.md",
+                "file": "linux/Guias/resize-swap.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +148,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9246546587641767,
+                  "scale": 0.21037068504247983,
                   "close": true
                 }
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas/BEI-904/index.md",
+                "file": "linux/Guias/resize-swap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas/BEI-904/index.md",
+                "file": "linux/Guias/resize-swap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,6 +224,11 @@
   },
   "active": "8149d59b9a90cbbd",
   "lastOpenFiles": [
+    "private/Excalidraw/IAM Permissions Example.md",
+    "linux/Guias/resize-swap.md",
+    "linux/Conceptos",
+    "private/Ubuntu Setup.md",
+    "notas/BEI-904/index.md",
     "index.md",
     "Viaje en Linux/Programas/index.md",
     "Viaje en Linux/Guias/index.md",
@@ -235,13 +242,10 @@
     "Notas Universitarias/index.md",
     "Notas Universitarias",
     "assets/split-tabs.mp4",
-    "private/Excalidraw/IAM Permissions Example.md",
-    "private/Ubuntu Setup.md",
     "notas/cursos.md",
     "private/Learning/AWS Cloud Practitioner/IAM Policies.md",
     "private/Learning/AWS Cloud Practitioner/AWS CLI.md",
     "private/Learning/AWS Cloud Practitioner/Services Types.md",
-    "notas/BEI-904/index.md",
     "notas/IC-100/index.md",
     "notas/index.md",
     "notas/SC-203/index.md",
@@ -250,7 +254,6 @@
     "private/Learning/University/Introducción a la Informática",
     "private/Learning/AWS Cloud Practitioner",
     "private/Learning/University/UI-UX",
-    "private/Learning/University",
     "notes/SC-315/index.md",
     "notes/SC-203/index.md",
     "notes/IC-100/index.md",
@@ -258,7 +261,6 @@
     "personal/Learning/University/Introducción a la Informática/Jul 15.svg",
     "personal/Learning/University/Debate - Modelos de gestión del proceso de pruebas.md",
     "linux/Diario/Día 0 - ¿Por qué decidí transicionar a Linux?.md",
-    "personal/Learning/University/UI-UX/Análisis Heuristico - Grupo 4.md",
     "assets/pc.jpg",
     "Learning/University/Introducción a la Informática/Jul 15.svg",
     "export/Manejo de Empleados/University/Jul 15.svg",
