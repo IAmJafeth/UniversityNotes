@@ -11,7 +11,7 @@ description: Explora las notas detalladas de Jafeth para sus cursos universitari
 ## **Hola, soy Jafeth Garro** 👋
 Soy estudiante de [[cursos|Ingenieria en Desarrollo de Software]] en la [Universidad Fidélitas](https://ufidelitas.ac.cr/)
 
-Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis cursos universitarios y mi experiencia de transición a un entorno 100% Linux. Ya sea que seas un compañero de clase, un estudiante, o solamente alguien interesado en aprender o explorar Linux, aquí encontrarás recursos valiosos que te ayudarán a entender y sobresalir en varios temas. Actualizo las notas de forma semanal, así que asegúrate de revisar si hay una actualización de manera regular[^1].
+Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis cursos universitarios y en un entorno 100% Linux. Ya sea que seas un compañero de clase, un estudiante, o solamente alguien interesado en aprender o explorar Linux, aquí encontrarás recursos valiosos que te ayudarán a entender y sobresalir en varios temas. Actualizo las notas de forma semanal, así que asegúrate de revisar si hay una actualización de manera regular[^1].
 
 ## **Índice de Contenidos** 🗂️
 
@@ -24,7 +24,6 @@ Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis
 
 
 ### **[[linux/index|Mi Viaje en Linux 🐧]]**
-- **[[linux/Diario/index|Diario de Transición a 100% Linux 📖]]**  
 - **[[linux/Programas/index|Programas que Utilizo en Linux 🧑‍💻]]**  
 - **[[linux/Guias/index|Guías y Tutoriales 📚]]**  
 
