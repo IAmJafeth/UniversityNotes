@@ -9,3 +9,4 @@ private/
 .replit
 replit.nix
 personal/
+workspace.json
