@@ -64,7 +64,7 @@ no label, UUID=c50b27b0-a530-4dd0-9377-aa28eabf3957
 
 ### Paso 5: Activar el archivo swap
 
-Una vez completados los pasos anteriores puede volver a activar el archivo swap c on el siguiente comando:
+Una vez completados los pasos anteriores puede volver a activar el archivo swap con el siguiente comando:
 
 ```bash
 sudo swapon /swap.img
