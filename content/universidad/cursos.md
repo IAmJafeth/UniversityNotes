@@ -16,9 +16,9 @@ alias: Ingenieria en Desarrollo de Software
 
 ### **II CUATRIMESTRE**
 - [x] Introducción a la Programación
-- [ ] [[notas/SC-203/index|Fundamentos de Sistemas Operativos]]
-- [ ] [[notas/SC-315/index|Matemáticas Discretas]]
-- [ ] [[notas/BEI-904/index|Investigación Cualitativa y Cuantitativa]]
+- [ ] [[universidad/SC-203/index|Fundamentos de Sistemas Operativos]] *Cursando Actualmente*
+- [ ] [[universidad/SC-315/index|Matemáticas Discretas]] *Cursando Actualmente*
+- [ ] [[universidad/BEI-904/index|Investigación Cualitativa y Cuantitativa]] *Cursando Actualmente*
 - [x] Diseño de Interfaz Gráfica de Usuario
 
 ### **III CUATRIMESTRE**
@@ -26,7 +26,7 @@ alias: Ingenieria en Desarrollo de Software
 - [ ] Documentación del Software
 - [ ] Cálculo I
 - [x] Gestión en Pruebas de Software
-- [ ] [[notas/IC-100/index|Metodología de Desarrollo de Proyectos]]
+- [ ] [[universidad/IC-100/index|Metodología de Desarrollo de Proyectos]] *Cursando Actualmente*
 
 ### **V CUATRIMESTRE**
 - [ ] Fundamentos de Diseño de Base de Datos Relacionales
