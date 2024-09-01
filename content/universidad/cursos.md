@@ -7,12 +7,13 @@ alias: Ingenieria en Desarrollo de Software
 ## **Bachillerato**
 **Completado:** 8/40 | **Porcentaje:** 20%
 
-
-| Emoji | Significado |                                     |
-|:-----:|:-----------:| ----------------------------------- |
-|  🔴   |  Reprobado  | Espero no tener que usar este nunca |
-|  🟡   |  Cursando   |                                     |
-|  🟢   |  Aprobado   |                                     |
+>[!info]- ¿Qué significan los colores?
+>
+> | Color | Significado |                                     |
+> |:-----:|:-----------:| ----------------------------------- |
+> |  🔴   |  Reprobado  | Espero no tener que usar este nunca |
+> |  🟡   |  Cursando   |                                      |
+> |  🟢   |  Aprobado   |                                     |
 
 
 ### **I CUATRIMESTRE**
