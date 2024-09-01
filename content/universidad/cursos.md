@@ -36,7 +36,7 @@ alias: Ingenieria en Desarrollo de Software
 - 🟢 Gestión en Pruebas de Software 
 - 🟡 [[universidad/IC-100/index|Metodología de Desarrollo de Proyectos]]
 
-### **V CUATRIMESTRE**
+### **IV CUATRIMESTRE**
 - Fundamentos de Diseño de Base de Datos Relacionales
 - Álgebra Lineal
 - Estructuras de Datos
