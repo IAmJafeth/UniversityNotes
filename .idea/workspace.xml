@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c71baec-6ec5-41ac-a68b-0e6c7dbe1e58" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/content/linux/Diario/Día 0 - ¿Por qué decidí transicionar a Linux?.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/components/PageTitle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/PageTitle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/Mi PC Solo Conoce un Color Catppuccin.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/Mi PC Solo Conoce un Color Catppuccin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-WS-242.20224.426" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
       </set>
     </attachedChunks>
   </component>
@@ -89,6 +90,7 @@
       <workItem from="1723605255696" duration="2264000" />
       <workItem from="1724819299316" duration="1132000" />
       <workItem from="1724822076458" duration="143000" />
+      <workItem from="1725506934421" duration="747000" />
     </task>
     <servers />
   </component>
