@@ -15,18 +15,19 @@ Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis
 
 ## **Índice de Contenidos** 🗂️
 
-- ### **[[universidad/index| Notas Universitarias 📓]]** 
-	- [[universidad/SC-203/index|Fundamentos de Sistemas Operativos]]  
-	- [[universidad/IC-100/index|Metodología de Desarrollo de Proyectos]]  
-	- [[universidad/SC-315/index|Matemáticas Discretas]]  
-	- [[universidad/BEI-904/index|Investigación Cualitativa y Cuantitativa]]  
-	- [[cursos | Todos los Cursos 📜]]
+ ### **[[universidad/index| Notas Universitarias 📓]]** 
+- [[universidad/SC-203/index|Fundamentos de Sistemas Operativos]]  
+- [[universidad/IC-100/index|Metodología de Desarrollo de Proyectos]]  
+- [[universidad/SC-315/index|Matemáticas Discretas]]  
+- [[universidad/BEI-904/index|Investigación Cualitativa y Cuantitativa]]  
+- [[cursos | Todos los Cursos 📜]]
 
-- ### **[[linux/index|Mi Viaje en Linux 🐧]]**
-	- [[linux/Programas/index|Programas que Utilizo en Linux 🧑‍💻]]  
-	- [[linux/Guias/index|Guías y Tutoriales 📚]]  
+ ### **[[linux/index|Mi Viaje en Linux 🐧]]**
+- [[linux/Programas/index|Programas que Utilizo en Linux 🧑‍💻]]  
+- [[linux/Guias/index|Guías y Tutoriales 📚]]  
 	  
-- ### **[[blog/index|Blog ✍️]]**
+### **[[blog/index|Blog ✍️]]**
+- [[Mi PC Solo Conoce un Color Catppuccin]]
 
 ## **Sobre este Blog** ℹ️
 
