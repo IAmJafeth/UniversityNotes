@@ -100,9 +100,10 @@ Puede ser una de las herramientas que más utilizo en mi día a día.
 
 ## Oh-my-Posh
 
-**Tema:** []()
+**Tema:** [Oh-my-Posh Catppuccin Mocha](https://ohmyposh.dev/docs/themes#catppuccin_mocha)
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
+![[Pasted image 20240905164734.png]]
 
 ## Quartz
 [Quartz](https://quartz.jzhao.xyz/) es el generador de sitios estáticos que utilizo para crear esta página web, el se encarga de convertir mis notas en formato [markdown](https://www.markdownguide.org/) a una página web completamente funcional.
@@ -126,11 +127,13 @@ Pero esto es una muestra de la regla: ==Si se puede personalizar, es Catppuccin.
 **Tema:** []()
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
+![[Pasted image 20240905164647.png]]
 
 ## Spotify
 **Tema:** []()
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
+![[Pasted image 20240905164854.png]]
 
 ## Steam
 **Tema:** []()
