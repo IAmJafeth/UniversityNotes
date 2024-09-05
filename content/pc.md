@@ -2,7 +2,6 @@
 title: Mi Computadora Personal 🖥️
 tags:
   - hardware
-  - personal
 ---
 ## Componentes
 - **Placa Madre:** [Asus PRIME Z590-A ](https://www.asus.com/us/motherboards-components/motherboards/prime/prime-z590-a/)

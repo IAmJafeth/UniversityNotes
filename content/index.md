@@ -39,7 +39,7 @@ La navegación en este blog es sencilla:
 
 - **Barra de búsqueda**: Utiliza la barra de búsqueda en la parte superior de la página para encontrar el tema específico o palabras clave.
 - **Categorías**: Navega por categorías o temas utilizando los enlaces en la barra lateral.
-- **Tags**: Busca los tags que agrupan temas relacionados para mayor facilidad.
+- [**Tags**](/tags): Busca los [tags](/tags) que agrupan temas relacionados para mayor facilidad.
 
 ## **Únete a la comunidad** 🌐
 
