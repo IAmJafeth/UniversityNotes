@@ -1,5 +1,8 @@
 ---
 title: Mi Computadora Personal 🖥️
+aliases:
+  - computadora personal
+  - computadora
 tags:
   - hardware
 ---
