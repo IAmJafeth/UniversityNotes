@@ -12,7 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: 'google', tagId: 'G-SJSZL2JCL9',
+      provider: "google",
+      tagId: "G-SJSZL2JCL9",
     },
     locale: "es-ES",
     baseUrl: "iamjafeth.com",
@@ -54,6 +55,7 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
+      Plugin.HardLineBreaks(),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
