@@ -1,5 +1,5 @@
 ---
-title: Mi Viaje en Linux 🐧
+title: 2 Mi Viaje en Linux 🐧
 draft: false
 aliases:
   - Linux
