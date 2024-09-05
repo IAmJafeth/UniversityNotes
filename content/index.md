@@ -54,5 +54,15 @@ Te motivo a escribir comentarios en las notas, hacer preguntas o sugerencias de 
 
 ¿Tienes alguna sugerencia?  Conctáctame a mi correo [jafeth636@gmail.com](mailto:jafeth636@gmail.com)
 
+### Redes sociales:
+- [![[github.png]]  GitHub](https://github.com/IAmJafeth)
+- [![[linkedin.png]] LinkedIn](https://www.linkedin.com/in/jafeth-garro-rold%C3%A1n-8ab499171/)
+- [![[twitch.png]] Twitch](https://www.twitch.tv/iamjafeth)
+- [![[instagram.png]] Instagram](https://www.instagram.com/iamjafethg?igsh=emhlcDB3NjJlZG80)
+- [![[youtube.png]] YouTube](https://www.youtube.com/@Jafeth636)!
+- [![[twitter-x.png]] X](https://x.com/Jafeth636)
+
+
+
 [^1]: Este blog cuenta con soporte para [RSS](https://es.wikipedia.org/wiki/RSS), para que puedas mantenerte actualizado de una manera sencilla.
 [^2]: [Obsidian](https://obsidian.md/) es completamente gratuito, pero ofrece un [descuento para estudiantes](https://help.obsidian.md/Licenses+and+payment/Education+and+non-profit+discount) para su servicios de [Obsidian Sync](https://obsidian.md/sync) y [Obsidian Publish](https://obsidian.md/publish) por si quieres aprovechar y tomar tus propias notas usando la misma herramienta que yo!
