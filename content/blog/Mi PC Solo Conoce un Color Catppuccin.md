@@ -50,7 +50,7 @@ De izquierda a derecha tenemos:
 ### Disponibilidad de aplicaciones
 Al momento de escribir este blog Catppuccin está disponible en [**363** ports](https://catppuccin.com/ports) para diferentes aplicaciones, y esto solo las versiones oficiales, también tendríamos que agregar las versiones creadas for usuarios las cuales todavía no están listada como ports oficiales.
 Y esto se debe a que Catppuccin es un esquema de colores ya establecido, con alrededor de [46 mil estrellas en sus repositorios de GitHub](https://github.com/catppuccin) posee una gran base de seguidores que lo mantienen y crean nuevos ports constatemente.
-La regla de oro es: **Si se puede cambiar el color, es Catppuccin.**
+La regla de oro es: ==Si se puede personalizar, es Catppuccin.==
 
 ![[Pasted image 20240904205005.png]]
 
