@@ -7,27 +7,27 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.Comments({
-      provider: 'giscus',
+      provider: "giscus",
       options: {
         // from data-repo
-        repo: 'IAmJafeth/UniversityNotes',
+        repo: "IAmJafeth/UniversityNotes",
         // from data-repo-id
-        repoId: 'R_kgDOMhU05A',
+        repoId: "R_kgDOMhU05A",
         // from data-category
-        category: 'Announcements',
+        category: "Announcements",
         // from data-category-id
-        categoryId: 'DIC_kwDOMhU05M4ChhN8',
-      }
+        categoryId: "DIC_kwDOMhU05M4ChhN8",
+      },
     }),
   ],
   footer: Component.Footer({
     links: {
       "Codigo Fuente": "https://github.com/IAmJafeth/UniversityNotes",
-      "Discord": "https://discord.gg/QMCtcS5svv",
+      Discord: "https://discord.gg/QMCtcS5svv",
     },
-    acknowledgement: 'Las notas compartidas en este blog están destinadas a ser ayudas para el estudio y no deben reemplazar los materiales oficiales del curso. Consulte siempre los recursos de su universidad para obtener la información más precisa.',
+    acknowledgement:
+      "Las notas compartidas en este blog están destinadas a ser ayudas para el estudio y no deben reemplazar los materiales oficiales del curso. Consulte siempre los recursos de su universidad para obtener la información más precisa.",
   }),
-
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -44,7 +44,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
-    Component.DesktopOnly(Component.RecentNotes())
+    Component.DesktopOnly(Component.RecentNotes({ linkToMore: "tags" })),
   ],
   right: [
     Component.Graph(),
