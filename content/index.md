@@ -55,12 +55,12 @@ Te motivo a escribir comentarios en las notas, hacer preguntas o sugerencias de 
 ¿Tienes alguna sugerencia?  Conctáctame a mi correo [jafeth636@gmail.com](mailto:jafeth636@gmail.com)
 
 ### Redes sociales:
-- ![[Github icon.svg | 20]] [GitHub](https://github.com/IAmJafeth)
-- ![[Linkedin icon.svg | 20]] [LinkedIn](https://www.linkedin.com/in/jafeth-garro-rold%C3%A1n-8ab499171/)
-- ![[Twitch icon.svg | 20]] [Twitch](https://www.twitch.tv/iamjafeth)
-- ![[Instagram icon.svg | 20]] [Instagram](https://www.instagram.com/iamjafethg?igsh=emhlcDB3NjJlZG80)
-- ![[Youtube icon.svg | 20]] [YouTube](https://www.youtube.com/@Jafeth636)
-- ![[X logo.svg | 20]] [Twitter](https://x.com/Jafeth636)
+- ![[github-icon.svg| 20]] [GitHub](https://github.com/IAmJafeth)
+- ![[linkeding-icon.svg| 20]] [LinkedIn](https://www.linkedin.com/in/jafeth-garro-rold%C3%A1n-8ab499171/)
+- ![[twitch-icon.svg| 20]] [Twitch](https://www.twitch.tv/iamjafeth)
+- ![[instagram-icon.svg| 20]] [Instagram](https://www.instagram.com/iamjafethg?igsh=emhlcDB3NjJlZG80)
+- ![[youtube-icon.svg| 20]] [YouTube](https://www.youtube.com/@Jafeth636)
+- ![[x-icon.svg| 20]] [Twitter](https://x.com/Jafeth636)
 
 
 

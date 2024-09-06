@@ -27,19 +27,19 @@ Pero dentro de todos estos hubo uno con el que conecté inmediatamente, y este e
 ### Contraste
 Algo que me encanta de Catppuccin es su punto medio a nivel de contraste, ya que no tiene colores ultra-saturados que pueden llegar a cansar la vista después de estar viendo la pantalla por un buen rato -situación que sucede seguido debido a mi estilo de vida- como los de [Dracula](https://draculatheme.com/); o el caso contrario, colores muy poco saturados que puede ser difícil diferenciar el texto del fondo, causando fatiga  a la larga por esforzar la vista.
 
-![[Pasted image 20240904200558.png]]
+![[contrast.png]]
 
 ### Colores Pastel
 Catppuccin utiliza colores pastel,  los cuales -en mi opinión- son muy agradables a la vista, y a su vez evocan sentimientos relajantes y tranquilos; a diferencia de algunos temas que aveces veo por ahí, los cuales parecen que su objetivo es causar daño permanente de retina \*cof cof\* *Solarized*.
 Esto y junto a su [[#Contraste | contraste]] en el punto perfecto, hace de tener sesiones largas frente a la computadora algo más agradable.
 
-![[Pasted image 20240904201405.png]]
+![[pastel-colors.png]]
 
 ### Múltiples Opciones
 Algunos de los [[#Diversas Alternativas | esquemas disponibles en el mercado]] se centran únicamente en una tonalidad, como Dracula con su tema oscuro; o en el mejor de los casos 2 tonalidades, una oscura o otra clara.
 Pero Catppuccin se diferencia del resto ofreciendo [**cuatro tonalidades diferentes**](https://catppuccin.com/palette), lo cual hace que Catppuccin se pueda adaptar a diferentes gustos y necesidades.
 
-![[Pasted image 20240904201724.png]]
+![[flavors.png]]
 
 De izquierda a derecha tenemos:
 - **🌻Latte**:  El "tema claro", para personas que les gusta un flash-bang (sin el bang) cada vez que abren su editor de código favorito.
@@ -52,7 +52,7 @@ Al momento de escribir este blog Catppuccin está disponible en [**363** ports](
 Y esto se debe a que Catppuccin es un esquema de colores ya establecido, con alrededor de [46 mil estrellas en sus repositorios de GitHub](https://github.com/catppuccin) posee una gran base de seguidores que lo mantienen y crean nuevos ports constatemente.
 La regla de oro es: ==Si se puede personalizar, es Catppuccin.==
 
-![[Pasted image 20240904205005.png]]
+![[ports.png]]
 
 
 ## Conclusión

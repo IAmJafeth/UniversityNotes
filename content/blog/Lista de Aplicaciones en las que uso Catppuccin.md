@@ -17,14 +17,14 @@ Para Btop++ Utilizo el port oficial de Catppuccin
 **Tema:** [Btop Catppuccin Mocha](https://github.com/catppuccin/btop)
 **Blog sobre Btop++:** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
-![[Pasted image 20240904231112.png]]
+![[btop.png]]
 
 ## Dark Reader (Firefox Extension)
 Extensión para activar el Modo Oscuro en páginas web que no lo soportan
 Utilizo el tema Catppuccin Mocha que viene por defecto
 
 **Tema:** [Dark Reader Catppuccin Mocha](https://github.com/catppuccin/dark-reader)
-![[Pasted image 20240904233748.png]]
+![[darkreader.png]]
 
 ## Discord - Vencord
 En Discord utilizo el mod de cliente [Vencord](https://vencord.dev/)
@@ -33,20 +33,20 @@ El tema que utilizo es un tema de Catppuccin *No Oficial* de [# refact0r](https:
 **Tema:** [Midnight Discord - Catppuccin Mocha Mauve](https://github.com/refact0r/midnight-discord?tab=readme-ov-file#catppuccin-mocha-mauve)
 **Blog sobre Vencord:** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
-![[Pasted image 20240904234209.png]]
+![[discord.png]]
 
 ## Figma Linux
 Figma Linux es una versión no oficial del cliente de escritorio de Figma (Ya que no tiene soporte oficial para Linux), este trae pre-instalado varios temas, incluido Catppuccin
 
 **Tema:** Figma Linux Catppuccin Mocha
-![[Pasted image 20240904234833.png]]
+![[figma-linux.png]]
 
 ## Jetbrains
 Todos los IDEs de [Jetbrains](https://www.jetbrains.com/) cuentan con el hermoso tema de Catppuccin, así que puedes disfrutar de este sin importar en que lenguaje estés programando.
 
 **Tema:** [Jetbrains Catppuccin Mocha](https://github.com/catppuccin/jetbrains)
 **Guía de Instalación de Catppuccin:** -Pronto-
-![[Pasted image 20240904235618.png]]
+![[jetbrains.png]]
 
 ## LazyGit
 LazyGit es la interfaz para la terminal que utilizo para administrar mis repositorios de Git, pronto escriberé más sobre esta aplicación, como instalarla y utilizarla.
@@ -54,7 +54,7 @@ LazyGit es la interfaz para la terminal que utilizo para administrar mis reposit
 **Tema:** [LazyGit Catppuccin Mocha](https://github.com/catppuccin/lazygit)
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
-![[Pasted image 20240905122451.png]]
+![[lazygit.png]]
 
 ## Midnight Commander
 Midnight Commander es una interfaz de explorador de archivos, pero para la terminal.
@@ -63,7 +63,7 @@ Lo utilizo cuando estoy trabajando desde mi terminal y tal vez en ese momento se
 **Tema:** [Midnight Commander Catppuccin Mocha](https://github.com/catppuccin/mc)
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
-![[Pasted image 20240905122637.png]]
+![[midnightcommander.png]]
 
 ## Neovim
 Neovim es una aplicación la cual me gustaría incorporar en mi día a día como editor de código principal, pero todavía me estoy acostumbrando a su manera de uso sin mouse.
@@ -71,7 +71,7 @@ Neovim es una aplicación la cual me gustaría incorporar en mi día a día como
 **Tema:** [Neovim Catppuccin](https://github.com/catppuccin/nvim)
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
-![[Pasted image 20240905123339.png]]
+![[neovim.png]]
 
 ## Nighttab Firefox Extension
 Nighttab es la extension que utilizo para mis nuevas pestañas en Zen Browser.
@@ -79,7 +79,7 @@ Nighttab es la extension que utilizo para mis nuevas pestañas en Zen Browser.
 **Tema:** [Nighttab Catppucin Mocha Mauve](https://github.com/catppuccin/nighttab)
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
-![[Pasted image 20240905123659.png]]
+![[nighttab.png]]
 
 ## OBS
 Open Broadcaster Software (OBS) es una aplicación que te permite Grabar y Transmitir tanto imagen y sonido desde tu computadora.
@@ -87,7 +87,7 @@ Open Broadcaster Software (OBS) es una aplicación que te permite Grabar y Trans
 **Tema:** [OBS Catppuccin Mocha](https://github.com/catppuccin/obs)
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
-![[Pasted image 20240905132714.png]]
+![[obs.png]]
 
 ## Obsidian
 Obsidian es la aplicación que utilizo para llevar apuntes y escribir los blogs de esta página web.
@@ -96,14 +96,14 @@ Puede ser una de las herramientas que más utilizo en mi día a día.
 **Tema:** [Obsidian Catppuccin Mocha](https://github.com/catppuccin/obsidian)
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
-![[Pasted image 20240905133034.png]]
+![[obsidian.png]]
 
 ## Oh-my-Posh
 
 **Tema:** [Oh-my-Posh Catppuccin Mocha](https://ohmyposh.dev/docs/themes#catppuccin_mocha)
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
-![[Pasted image 20240905164734.png]]
+![[oh-my-posh.png]]
 
 ## Quartz
 [Quartz](https://quartz.jzhao.xyz/) es el generador de sitios estáticos que utilizo para crear esta página web, el se encarga de convertir mis notas en formato [markdown](https://www.markdownguide.org/) a una página web completamente funcional.
@@ -113,7 +113,7 @@ Para Quartz utilizo un tema de Catppuccin no oficial el cual yo mismo he modific
 **Tema:** []()
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
-![[Pasted image 20240905133539.png]]
+![[quartz.png]]
 
 ## Samsung Galaxy S22 Ultra
 Como no podía faltar, también tuve que hacer cambios en mi teléfono personal para que armonizara con el resto de mis aplicaciones.
@@ -127,13 +127,13 @@ Pero esto es una muestra de la regla: ==Si se puede personalizar, es Catppuccin.
 **Tema:** []()
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
-![[Pasted image 20240905164647.png]]
+![[slack.png]]
 
 ## Spotify
 **Tema:** []()
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
-![[Pasted image 20240905164854.png]]
+![[spotify.png]]
 
 ## Steam
 **Tema:** []()
