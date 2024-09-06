@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c71baec-6ec5-41ac-a68b-0e6c7dbe1e58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/assets/Samsung Galaxy S22 Ultra.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/Las aplicaciones en las que uso catppuccin.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/Las aplicaciones en las que uso catppuccin.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/styles/base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/components/styles/graph.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/styles/graph.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +90,7 @@
       <workItem from="1724822076458" duration="143000" />
       <workItem from="1725506934421" duration="747000" />
       <workItem from="1725600558511" duration="2126000" />
+      <workItem from="1725629470279" duration="301000" />
     </task>
     <servers />
   </component>
