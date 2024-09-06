@@ -10,6 +10,11 @@ En este [[blog/index|blog]] voy a listar todas las aplicaciones en las que tengo
 
 La lista puede ser un poco extensa, por esta misma razón he ordenado las aplicaciones en orden alfabético, y he agregado imágenes de cada una de las aplicaciones para que puedas ver que tal queda el tema de Catppuccin en cada una de ellas y tal vez tomar la decisión de instalarlo en tu entorno.
 
+> [!tip]
+> A la derecha de la página está la **Tabla de Contenidos**, en la que puedes ver todas las aplicaciones aquí listadas, si le das click puedes dirigirte a esa aplicación automaticamente.
+> *Solo disponible para la versión de computadora*
+> *Si no lo ves, trata de hacer Zoom out con `Ctrl` + `-` <kbd>Ctrl</kbd>*
+
 ## Btop++
 Monitor de Recursos para la Terminal
 Para Btop++ Utilizo el port oficial de Catppuccin
@@ -110,7 +115,7 @@ Puede ser una de las herramientas que más utilizo en mi día a día.
 
 Para Quartz utilizo un tema de Catppuccin no oficial el cual yo mismo he modificado un poco, lo pueden encontrar en mi GitHub utilizando el enlace de abajo.
 
-**Tema:** []()
+**Tema:** [Quartz Catppuccin: Latte & Mocha](https://gist.github.com/IAmJafeth/3827a4fca5908c8e399e101276e68f31)
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
 ![[quartz.png]]
@@ -121,6 +126,8 @@ Este tema lo cree yo utilizando las funciones de personalización de [Good Lock]
 Pero esto es una muestra de la regla: ==Si se puede personalizar, es Catppuccin.==
 
 **Tema:** Samsung Catppuccin Mocha (creado por mi)
+
+![[Samsung Galaxy S22 Ultra.png]]
 
 
 ## Slack
