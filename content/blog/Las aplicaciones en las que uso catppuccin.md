@@ -1,5 +1,5 @@
 ---
-title: Lista de Aplicaciones en las que uso Catppuccin
+title: Las Aplicaciones en las que uso Catppuccin
 draft: true
 tags:
   - blog
