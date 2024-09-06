@@ -27,7 +27,7 @@ Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis
 - [[linux/Guias/index|Guías y Tutoriales 📚]]  
 	  
 ### **[[blog/index|Blog ✍️]]**
-- [[Mi PC Solo Conoce un Color Catppuccin]]
+- [[Mi PC Solo Conoce un Color... Catppuccin]]
 
 ## **Sobre este Blog** ℹ️
 

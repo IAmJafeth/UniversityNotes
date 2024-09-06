@@ -10,7 +10,7 @@ title: Mi PC Solo Conoce un Color... Catppuccin
 
 Soy un obsesionado por mantener mis aplicaciones/herramientas con una apariencia consistente entre ellas, y para lograr esto es necesario decidir como quieres que se vean tus aplicaciones. 
 La forma mas sencilla de lograr  esto es seleccionar un "Tema" o esquema de colores, ya que estos poseen un estilo y colores ya pre-definidos,  y evitar crear un estilo por mi cuenta.
-En este [[blog/index|blog]] vamos a explorar las opciones que tenemos disponibles para este propósito y porqué seleccione la mejor de todas.
+En este [[blog/index|blog]] vamos a explorar las opciones que tenemos disponibles para este propósito y porque seleccioné la mejor de todas.
 
 ## Diversas Alternativas
 Dentro del catálogo disponible en linea de esquemas de colores con un amplio soporte a varias aplicaciones, me llamaron la atención los siguientes: 

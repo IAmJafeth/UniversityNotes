@@ -6,7 +6,7 @@ tags:
   - personalización
 ---
 
-En este [[blog/index|blog]] voy a listar todas las aplicaciones en las que tengo el tema de  [[Mi PC Solo Conoce un Color Catppuccin|Catppuccin]] instalado en mi [[pc|computadora personal]].
+En este [[blog/index|blog]] voy a listar todas las aplicaciones en las que tengo el tema de  [[Mi PC Solo Conoce un Color... Catppuccin|Catppuccin]] instalado en mi [[pc|computadora personal]].
 
 La lista puede ser un poco extensa, por esta misma razón he ordenado las aplicaciones en orden alfabético, y he agregado imágenes de cada una de las aplicaciones para que puedas ver que tal queda el tema de Catppuccin en cada una de ellas y tal vez tomar la decisión de instalarlo en tu entorno.
 
