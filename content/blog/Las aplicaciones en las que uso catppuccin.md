@@ -145,34 +145,35 @@ Pero esto es una muestra de la regla: ==Si se puede personalizar, es Catppuccin.
 ## Steam
 **Tema:** []()
 **Blog sobre :** -Pronto-
-**Guía de Instalación de Catppuccin:** -Pronto-
+![[Pasted image 20240906202832.png]]
+
 
 ## Userstyles
 **Tema:** []()
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
+![[Pasted image 20240906203029.png]]
 
 ## Visual Studio Code
 **Tema:** []()
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
+![[Pasted image 20240906203900.png]]
 
 ## Warp
 **Tema:** []()
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
-
-## Youtube Music
-**Tema:** []()
-**Blog sobre :** -Pronto-
-**Guía de Instalación de Catppuccin:** -Pronto-
+![[Pasted image 20240906203948.png]]
 
 ## Zed
 **Tema:** []()
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
+![[Pasted image 20240906204811.png]]
 
 ## Zen Browser
 **Tema:** []()
 **Blog sobre :** -Pronto-
 **Guía de Instalación de Catppuccin:** -Pronto-
+![[Pasted image 20240906204906.png]]
