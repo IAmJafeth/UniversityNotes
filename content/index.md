@@ -8,6 +8,10 @@ aliases:
 description: Explora las notas detalladas de Jafeth para sus cursos universitarios, actualizadas semanalmente y organizadas para facilitar el estudio. Además, sigue su transición a 100% Linux con guías y recomendaciones de software.
 ---
 
+```query
+linux
+```
+
 ## **Hola, soy Jafeth Garro** 👋
 Soy estudiante de [[cursos|Ingenieria en Desarrollo de Software]] en la [Universidad Fidélitas](https://ufidelitas.ac.cr/)
 

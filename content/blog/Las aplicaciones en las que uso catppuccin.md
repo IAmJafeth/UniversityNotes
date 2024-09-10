@@ -15,7 +15,7 @@ La lista puede ser un poco extensa, por esta misma razón he ordenado las aplica
 > *Solo disponible para la versión de computadora*
 > *Si no lo ves, trata de hacer Zoom out con `Ctrl` + `-` <kbd>Ctrl</kbd>*
 
-## Btop++
+#### Btop++
 Monitor de Recursos para la Terminal
 Para Btop++ Utilizo el port oficial de Catppuccin
 
