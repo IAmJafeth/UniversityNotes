@@ -15,26 +15,28 @@ alias: Ingenieria en Desarrollo de Software
 > |  🟡   |  Cursando   |                                      |
 > |  🟢   |  Aprobado   |                                     |
 
+> [!attention] Atención
+> Los cursos con 🙅 los completé antes de iniciar este proyecto y no tengo planeado crear notas para estos 
 
 ### **I CUATRIMESTRE**
-- 🟢 Programación Básica 
-- 🟢 Introducción a la Informática 
-- 🟢 Matemática Básica 
-- 🟢 Principios y Técnicas de Investigación 
-- 🟢 Ingeniería de Requerimientos 
+- 🟢 Programación Básica 🙅
+- 🟢 Introducción a la Informática  🙅
+- 🟢 Matemática Básica  🙅
+- 🟢 Principios y Técnicas de Investigación  🙅
+- 🟢 Ingeniería de Requerimientos  🙅
 
 ### **II CUATRIMESTRE**
-- 🟢 Introducción a la Programación
+- 🟢 Introducción a la Programación 🙅
 - 🟡 [[universidad/SC-203/index|Fundamentos de Sistemas Operativos]]
 - 🟡 [[universidad/SC-315/index|Matemáticas Discretas]]
 - 🟡 [[universidad/BEI-904/index|Investigación Cualitativa y Cuantitativa]]
-- 🟢 Diseño de Interfaz Gráfica de Usuario 
+- 🟢 Diseño de Interfaz Gráfica de Usuario  🙅
 
 ### **III CUATRIMESTRE**
 - Programación Cliente/Servidor Concurrente
 - Documentación del Software
 - Cálculo I
-- 🟢 Gestión en Pruebas de Software 
+- 🟢 Gestión en Pruebas de Software 🙅
 - 🟡 [[universidad/IC-100/index|Metodología de Desarrollo de Proyectos]]
 
 ### **IV CUATRIMESTRE**
