@@ -1,10 +1,11 @@
 ---
-title: 2 Mi Viaje en Linux 🐧
+title: 2 Linux 🐧
 draft: false
 aliases:
   - Linux
   - Mi Viaje en Linux
   - My Linux Journey
+  - Linux 🐧
 ---
 
 Aquí comparto mi los programas que utilizo, y las guías que he creado para ayudar a otros a sumergirse en el mundo de Linux.
