@@ -6,6 +6,7 @@ tags:
   - personalización
   - blog
 title: Mi PC Solo Conoce un Color... Catppuccin
+updated: 2024-09-04
 ---
 
 Soy un obsesionado por mantener mis aplicaciones/herramientas con una apariencia consistente entre ellas, y para lograr esto es necesario decidir como quieres que se vean tus aplicaciones. 

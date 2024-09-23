@@ -4,6 +4,7 @@ draft: true
 tags:
   - blog
   - personalización
+updated: 2024-09-04
 ---
 
 En este [[blog/index|blog]] voy a listar todas las aplicaciones en las que tengo el tema de  [[Mi PC Solo Conoce un Color... Catppuccin|Catppuccin]] instalado en mi [[pc|computadora personal]].

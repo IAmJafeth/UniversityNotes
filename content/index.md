@@ -6,10 +6,11 @@ aliases:
   - Main
   - Main Page
 description: Explora las notas detalladas de Jafeth para sus cursos universitarios, actualizadas semanalmente y organizadas para facilitar el estudio. Además, sigue su transición a 100% Linux con guías y recomendaciones de software.
+updated: 2024-09-17
 ---
 
 ## **Hola, soy Jafeth Garro** 👋
-Soy estudiante de [[cursos|Ingenieria en Desarrollo de Software]] en la [Universidad Fidélitas](https://ufidelitas.ac.cr/)
+Soy estudiante de [[universidad/cursos/index|Ingenieria en Desarrollo de Software]] en la [Universidad Fidélitas](https://ufidelitas.ac.cr/)
 
 Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis cursos universitarios y en un entorno 100% Linux. Ya sea que seas un compañero de clase, un estudiante, o solamente alguien interesado en aprender o explorar Linux, aquí encontrarás recursos valiosos que te ayudarán a entender y sobresalir en varios temas. Actualizo las notas de forma semanal, así que asegúrate de revisar si hay una actualización de manera regular[^1].
 
@@ -19,11 +20,11 @@ Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis
 
  ### **[[universidad/index| Universidad 📓]]** 
 - **Cursos que estoy cursando este cuatrimestre:**
-	- [[universidad/SC-203/index|Fundamentos de Sistemas Operativos]]  
-	- [[universidad/IC-100/index|Metodología de Desarrollo de Proyectos]]  
-	- [[universidad/SC-315/index|Matemáticas Discretas]]  
-	- [[universidad/BEI-904/index|Investigación Cualitativa y Cuantitativa]]  
-- [[cursos | Todos los Cursos 📜]]
+	- [[universidad/cursos/SC-203/index|Fundamentos de Sistemas Operativos]]  
+	- [[universidad/cursos/IC-100/index|Metodología de Desarrollo de Proyectos]]  
+	- [[universidad/cursos/SC-315/index|Matemáticas Discretas]]  
+	- [[universidad/cursos/BEI-904/index|Investigación Cualitativa y Cuantitativa]]  
+- [[universidad/cursos/index| Todos los Cursos 📜]]
 
  ### **[[linux/index| Linux 🐧]]**
 - [[linux/Programas/index|Programas que Utilizo en Linux 🧑‍💻]]  

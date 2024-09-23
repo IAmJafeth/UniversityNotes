@@ -3,6 +3,7 @@ title: ¿Cómo Redimensionar la Memoria Swap en Ubuntu Linux? 24.04
 draft: false
 tags:
   - guias
+updated: 2024-09-04
 ---
 
 La última version de [Ubuntu](https://ubuntu.com/) ahora utilizan un [archivo swap](https://help.ubuntu.com/community/SwapFaq) en lugar de una partición dedicada.

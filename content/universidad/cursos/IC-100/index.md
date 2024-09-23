@@ -1,9 +1,11 @@
 ---
 title: Metodología de Desarrollo de Proyectos
-alias: Metodología de Desarrollo de Proyectos
+aliases:
+  - Metodología de Desarrollo de Proyectos
 tags:
   - Universidad
-  - IC-100
+  - Metodología-de-Desarrollo-de-Proyectos
+updated: 2024-09-23
 ---
 
 
