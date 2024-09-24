@@ -20,10 +20,10 @@ Bienvenido a mi blog de estudio personal donde estaré compartiendo notas de mis
 
  ### **[[universidad/index| Universidad 📓]]** 
 - **Cursos que estoy cursando este cuatrimestre:**
+	 - [[universidad/cursos/IC-100/index|Metodología de Desarrollo de Proyectos]]  
 	- [[universidad/cursos/SC-203/index|Fundamentos de Sistemas Operativos]]  
-	- [[universidad/cursos/IC-100/index|Metodología de Desarrollo de Proyectos]]  
-	- [[universidad/cursos/SC-315/index|Matemáticas Discretas]]  
 	- [[universidad/cursos/BEI-904/index|Investigación Cualitativa y Cuantitativa]]  
+	- [[universidad/cursos/SC-315/index|Matemáticas Discretas]]  
 - [[universidad/cursos/index| Todos los Cursos 📜]]
 
  ### **[[linux/index| Linux 🐧]]**
