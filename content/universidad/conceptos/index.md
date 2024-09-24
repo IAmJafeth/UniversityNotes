@@ -1,5 +1,6 @@
 ---
 title: Conceptos 💡
+updated: 2024-09-23
 ---
 
 # Conceptos Específicos de Ingeniería de Desarrollo de Software

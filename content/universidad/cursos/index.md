@@ -3,6 +3,8 @@ title: Cursos 📜
 aliases:
   - Ingenieria en Desarrollo de Software
 updated: 2024-09-23
+tags:
+  - Universidad
 ---
 [Plan de Estudio](https://cdn.ufidelitas.ac.cr/wp-content/uploads/2024/08/05101715/UFidelitas_Plan-de-Estudios_Ing-en-Desarrollo-de-Software-compressed.pdf)
 

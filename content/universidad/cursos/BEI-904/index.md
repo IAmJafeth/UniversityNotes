@@ -5,5 +5,4 @@ aliases:
 updated: 2024-09-23
 tags:
   - Universidad
-  - Investigación-Cualitativa-Cuantitativa
 ---

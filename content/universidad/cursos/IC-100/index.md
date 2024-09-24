@@ -4,10 +4,14 @@ aliases:
   - Metodología de Desarrollo de Proyectos
 tags:
   - Universidad
-  - Metodología-de-Desarrollo-de-Proyectos
 updated: 2024-09-23
 ---
 
+El curso enseña técnicas de gestión de proyectos, desde la atención de requerimientos hasta el uso de herramientas. Los estudiantes deben identificar un cliente real y realizar levantamiento de requerimientos y diseño de soluciones.
+
+> [!NOTE] Notas
+> - El curso se va a enfocar mayormente en la metodologia de gestión de proyectos [[cascada]], ya que es el método que más se utiliza de manera general.
+> - [Mindmesiter](https://www.mindmeister.com/) es la aplicación recomendad para crear mapas mentales en el curso de manera digital
 
 |               |            |
 | ------------- | ---------- |
@@ -18,13 +22,6 @@ updated: 2024-09-23
 
 ---
 
-El curso enseña técnicas de gestión de proyectos, desde la atención de requerimientos hasta el uso de herramientas. Los estudiantes deben identificar un cliente real y realizar levantamiento de requerimientos y diseño de soluciones.
-
-> [!NOTE] Notas
-> - El curso se va a enfocar mayormente en la metodologia de gestión de proyectos [[cascada]], ya que es el método que más se utiliza de manera general.
-> - [Mindmesiter](https://www.mindmeister.com/) es la aplicación recomendad para crear mapas mentales en el curso de manera digital
-
-
 ## Estructura del Curso
 
 | Semanas | Actividades          |
@@ -34,6 +31,7 @@ El curso enseña técnicas de gestión de proyectos, desde la atención de reque
 | 13      | Agilidad             |
 | 14,15   | Exposiciones Finales | 
 
+--- 
 
 ## Calificación
 
