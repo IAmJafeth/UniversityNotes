@@ -83,7 +83,7 @@ Crear las 3 maquinas virtuales según la [[#Servidores| Tabla de Especificacione
 Instalar las imágenes de **Ubuntu Server 24.04.1 LTS** en cada uno de los servidores creados en VirtualBox
 
 ### 3- Configurar OpenSSH en los servidores
-Se puede configurar utilizando un *Usuario y Contraseña* para la configuración del sistema, pero después migrar a **autenticación con claves SSH** en el futuro para aumentar el nivel de seguridad.
+Se puede  utilizar un *Usuario y Contraseña* para la configuración del sistema, pero después migrar a **autenticación con claves SSH** en el futuro para aumentar el nivel de seguridad.
 
 ### 4- Instalar  *Cockpit* en cada uno de los servidores
 
@@ -106,7 +106,7 @@ Se puede configurar utilizando un *Usuario y Contraseña* para la configuración
    useradd -m cockpit-user
    ```
 5. **Asignar una contraseña al Usuario de Cockpit**
-   Estas credenciales deben ser segura **- preferiblemente creada por un gestor de contraseñas-**, y administradas bajo el estándard [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) para asegurar la seguridad de las mimas.
+   Estas credenciales deben ser segura **- preferiblemente creadas por un gestor de contraseñas-**, y administradas bajo el estándard [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) para asegurar la seguridad de las mismas.
    ```bash
    passwd cockpit-user
    ```
