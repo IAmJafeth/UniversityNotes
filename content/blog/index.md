@@ -1,4 +1,6 @@
 ---
 title: 3 Blog ✍️
-alias: Blog ✍️
+aliases:
+  - Blog ✍️
+updated: 2024-09-04
 ---

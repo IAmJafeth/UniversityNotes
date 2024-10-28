@@ -1,6 +1,10 @@
 ---
-title: Cursos de Ingenieria en Desarrollo de Software 📜
-alias: Ingenieria en Desarrollo de Software
+title: Cursos 📜
+aliases:
+  - Ingenieria en Desarrollo de Software
+updated: 2024-09-23
+tags:
+  - Universidad
 ---
 [Plan de Estudio](https://cdn.ufidelitas.ac.cr/wp-content/uploads/2024/08/05101715/UFidelitas_Plan-de-Estudios_Ing-en-Desarrollo-de-Software-compressed.pdf)
 
@@ -15,27 +19,29 @@ alias: Ingenieria en Desarrollo de Software
 > |  🟡   |  Cursando   |                                      |
 > |  🟢   |  Aprobado   |                                     |
 
+> [!attention] Atención
+> Los cursos con 🙅 los completé antes de iniciar este proyecto y no tengo planeado crear notas para estos 
 
 ### **I CUATRIMESTRE**
-- 🟢 Programación Básica 
-- 🟢 Introducción a la Informática 
-- 🟢 Matemática Básica 
-- 🟢 Principios y Técnicas de Investigación 
-- 🟢 Ingeniería de Requerimientos 
+- 🟢 Programación Básica 🙅
+- 🟢 Introducción a la Informática  🙅
+- 🟢 Matemática Básica  🙅
+- 🟢 Principios y Técnicas de Investigación  🙅
+- 🟢 Ingeniería de Requerimientos  🙅
 
 ### **II CUATRIMESTRE**
-- 🟢 Introducción a la Programación
-- 🟡 [[universidad/SC-203/index|Fundamentos de Sistemas Operativos]]
-- 🟡 [[universidad/SC-315/index|Matemáticas Discretas]]
-- 🟡 [[universidad/BEI-904/index|Investigación Cualitativa y Cuantitativa]]
-- 🟢 Diseño de Interfaz Gráfica de Usuario 
+- 🟢 Introducción a la Programación 🙅
+- 🟡 [[universidad/cursos/SC-203/index|Fundamentos de Sistemas Operativos]]
+- 🟡 [[universidad/cursos/SC-315/index|Matemáticas Discretas]]
+- 🟡 [[universidad/cursos/BEI-904/index|Investigación Cualitativa y Cuantitativa]]
+- 🟢 Diseño de Interfaz Gráfica de Usuario  🙅
 
 ### **III CUATRIMESTRE**
 - Programación Cliente/Servidor Concurrente
 - Documentación del Software
 - Cálculo I
-- 🟢 Gestión en Pruebas de Software 
-- 🟡 [[universidad/IC-100/index|Metodología de Desarrollo de Proyectos]]
+- 🟢 Gestión en Pruebas de Software 🙅
+- 🟡 [[universidad/cursos/IC-100/index|Metodología de Desarrollo de Proyectos]]
 
 ### **IV CUATRIMESTRE**
 - Fundamentos de Diseño de Base de Datos Relacionales

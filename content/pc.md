@@ -5,6 +5,7 @@ aliases:
   - computadora
 tags:
   - hardware
+updated: 2024-09-05
 ---
 ## Componentes
 - **Placa Madre:** [Asus PRIME Z590-A ](https://www.asus.com/us/motherboards-components/motherboards/prime/prime-z590-a/)

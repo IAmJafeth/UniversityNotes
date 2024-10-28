@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import * as ExtraComponent from "./quartz/extra"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -41,14 +42,25 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(
+      ExtraComponent.OverlayExplorer({
+        filterFn: (node) => node.name !== "tags" && node.name !== "License",
+      }),
+    ),
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
     Component.DesktopOnly(Component.RecentNotes({ linkToMore: "tags", limit: 2 })),
   ],
   right: [
-    Component.Graph(),
-    Component.MobileOnly(Component.Explorer()),
+    Component.Graph({
+      localGraph: {
+        showTags: false, // whether to show tags in the graph
+      },
+      globalGraph: {
+        showTags: false, // whether to show tags in the graph
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -60,6 +72,11 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(
+      ExtraComponent.OverlayExplorer({
+        filterFn: (node) => node.name !== "tags" && node.name !== "License",
+      }),
+    ),
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
